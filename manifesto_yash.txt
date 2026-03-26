@@ -1,4 +1,4 @@
 On 26 March 2026, I reflect on open source.
-Using  daily shows me the power of collaboration.
-Freedom for me means .
-I wish to build  and share it openly.
+Using Python daily shows me the power of collaboration.
+Freedom for me means independence.
+I wish to build a useful application for students and share it openly.
